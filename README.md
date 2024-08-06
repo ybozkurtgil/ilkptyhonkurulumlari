@@ -1,0 +1,2 @@
+# ilkptyhonkurulumlari
+İGÜ - İSTKA - SİBER AKADEMİ - VERİ YAPILARI VE ALGORİTMALAR DERSİNİN İLK ÇIKTISIDIR.
